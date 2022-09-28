@@ -33,6 +33,8 @@
  * Copyright (c) 2016 Jorik Tangelder;
  * Licensed under the MIT license */
 
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
 /**!
  * Sortable 1.14.0
  * @author	RubaXa   <trash@rubaxa.org>

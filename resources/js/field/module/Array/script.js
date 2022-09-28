@@ -23,8 +23,8 @@ export default {
       this['array'] = array || [];
       if ( this.handler ) this.handler(array);
     },
-    remove(num) {
-      this.changeArray(this.array.slice().filter((item, i) => i !== num));
+    remove(id) {
+      this.changeArray(this.array.slice().filter((item) => item.id !== id));
     }
   },
   created() {
